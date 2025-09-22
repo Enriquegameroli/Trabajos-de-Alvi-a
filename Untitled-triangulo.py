@@ -14,11 +14,12 @@ class triángulo():
         print(f"Área del triángulo: {self.area:.2f} unidades cuadradas")
     
     def ejecutar(self):
-        2
+        self.datos()
         self.calcular_area()
         self.imprimir_resultado()
 
 triangulo = triángulo()
 triangulo.ejecutar()
+
 
 
