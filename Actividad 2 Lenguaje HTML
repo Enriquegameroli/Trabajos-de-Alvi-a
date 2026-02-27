@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+    <title>Actividad 2 Lenguaje HTML</title>
+
+    <style>
+        body {
+            background-color: #eee;
+            font-family: Arial, sans-serif;
+        }
+
+        #parrafo {
+            color: blue;
+            font-size: 20px;
+        }
+
+        .etiqueta {
+            color: red;
+            font-weight: bold;
+        }
+
+    </style>
+
+</head>
+<body>
+
+    <p id="parrafo">Ejemplo de pagina web</p>
+
+    <span class="etiqueta">hola mundo</span>
+    <br />
+    <span class="etiqueta">Tex</span>
+    <br />
+    <span class="etiqueta">hello</span>
+
+    <br><br>
+
+    <img src="Conalep-ejm.jfif" alt="Conalep-ejm" width="300">
+</body>
+</html>
